@@ -43,7 +43,7 @@
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
-            <version>3.4.6</version>
+            <version>3.4.14</version>
             <!-- <version>3.4.6.2.6.2.0-292</version>
              <systemPath>C:\Users\singh\Downloads\mapreduce-training-custom-writable-master\mapreduce-training-custom-writable-master\jar\zookeeper-3.4.6.2.6.5.0-292.jar</systemPath>
              <scope>system</scope>-->
